@@ -6,7 +6,7 @@ It compares different models to identify which gives the best accuracy for predi
 ## 📂 Project Structure
 - `Bengaluru_House_Price_Prediction.ipynb` → Main Jupyter Notebook with code
 - `requirements.txt` → List of dependencies
-- `Bengaluru_House_Data.csv` → Dataset (if public)
+- `Bengaluru_House_Data.csv` → Dataset
 - `README.md` → Project documentation
 
 ## 🚀 How to Run
@@ -14,4 +14,5 @@ It compares different models to identify which gives the best accuracy for predi
    ```bash
    git clone  https://github.com/anushree1206/bengaluru-house-price-prediction.git
    cd bengaluru-house-price-prediction
+
 
